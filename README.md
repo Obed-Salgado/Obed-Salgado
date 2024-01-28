@@ -1,16 +1,21 @@
-### Hi there 👋
+<h1 align="center">Hola <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, Soy Obed Salgado Del Carmen</h1>
 
-<!--
-**Obed-Salgado/Obed-Salgado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">Soy un joven desarrollador apasionado por el mundo de la programación, con el objetivo de aprender algo nuevo cada día y aportar algo a la sociedad.</h3>
 
-Here are some ideas to get you started:
+## Sobre mí :
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Estudie una licenciatura en Ciencias y Tecnologías de la Información
+- 🏢 Estuve como desarrollador de software en JANUS el tiempo que estuve estudiando
+- 🎶 Me gusta mucho la música y tocar el piano 🎹 
+
+<br>
+
+## Conocimientos 🧑‍💻 :
+
+<br>
+
+<img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png"/> <img src="https://img.icons8.com/color/48/000000/kotlin.png"/>
+
+<img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/> <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png"/> <img src="https://img.icons8.com/color/48/000000/firebase.png"/>
+
+<img src="https://img.icons8.com/color/48/000000/figma--v1.png"/> <img src="https://img.icons8.com/color/48/000000/android-studio--v2.png"/> <img src="https://img.icons8.com/color/48/000000/visual-studio.png"/> 
